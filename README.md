@@ -115,7 +115,7 @@ Add hospital admission data for deeper health impact analysis.
 
 Predictive modeling for future AQI trends.
 
-📷 Preview
+
 ![alt text](image.png)
 
 ⭐ If you like this project
